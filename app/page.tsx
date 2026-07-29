@@ -320,49 +320,6 @@ export default function Home() {
             <MetricTable title="ZInD" rows={zind} />
           </div>
 
-          <div className="result-callouts">
-            <div>
-              <strong>64</strong>
-              <span>pose particles</span>
-            </div>
-            <div>
-              <strong>10</strong>
-              <span>denoising steps</span>
-            </div>
-            <div>
-              <strong>~4×</strong>
-              <span>faster than ray matching</span>
-            </div>
-            <div>
-              <strong>0</strong>
-              <span>offline lookup tables</span>
-            </div>
-          </div>
-
-          <div className="evidence-grid">
-            <figure className="paper-figure dark-figure">
-              <img
-                src="figures/qualitative.png"
-                alt="Qualitative localization comparison on Structured3D"
-              />
-              <figcaption>
-                <span>Figure 3</span>
-                Global diffusion retains the right mode in symmetric layouts;
-                refinement sharpens the final pose.
-              </figcaption>
-            </figure>
-            <figure className="paper-figure dark-figure">
-              <img
-                src="figures/tradeoff.png"
-                alt="Accuracy-latency trade-off chart"
-              />
-              <figcaption>
-                <span>Figure 4</span>
-                Over 73% recall at 1 m with real-time inference and no online ray
-                matching.
-              </figcaption>
-            </figure>
-          </div>
         </div>
       </section>
 
