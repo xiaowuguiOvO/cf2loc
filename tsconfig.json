@@ -35,7 +35,10 @@
     "build",
     "db",
     "drizzle",
+    "drizzle.config.ts",
+    "eslint.config.mjs",
     "examples",
+    "vite.config.ts",
     "worker"
   ]
 }
