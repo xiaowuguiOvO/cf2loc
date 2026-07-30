@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-const siteUrl = "https://xiaowuguiOvO.github.io/cf2loc/";
+const siteUrl = "https://xiaowuguiOvO.github.io/cf2loc-project-page/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

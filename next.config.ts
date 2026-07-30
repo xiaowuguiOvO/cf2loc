@@ -8,8 +8,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: isGitHubPages ? "/cf2loc" : "",
-  assetPrefix: isGitHubPages ? "/cf2loc/" : "",
+  basePath: isGitHubPages ? "/cf2loc-project-page" : "",
+  assetPrefix: isGitHubPages ? "/cf2loc-project-page/" : "",
 };
 
 export default nextConfig;

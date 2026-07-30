@@ -10,7 +10,7 @@ preprocessing, lookup tables, and exhaustive test-time matching.
 
 ## Project page
 
-**https://xiaowuguiOvO.github.io/cf2loc/**
+**https://xiaowuguiOvO.github.io/cf2loc-project-page/**
 
 ## Highlights
 
