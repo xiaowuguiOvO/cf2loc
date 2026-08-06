@@ -81,7 +81,7 @@ export default function Home() {
         </div>
         <a
           className="nav-github"
-          href="https://github.com/xiaowuguiOvO/cf2loc-project-page"
+          href="https://github.com/CSU-HERO-Lab/CF2Loc"
         >
           GitHub <ArrowIcon />
         </a>
@@ -120,7 +120,7 @@ export default function Home() {
             </a>
             <a
               className="button secondary"
-              href="https://github.com/xiaowuguiOvO/cf2loc-project-page"
+              href="https://github.com/CSU-HERO-Lab/CF2Loc"
             >
               View code <ArrowIcon />
             </a>
@@ -354,7 +354,7 @@ export default function Home() {
               </a>
               <a
                 className="button secondary"
-                href="https://github.com/xiaowuguiOvO/cf2loc-project-page"
+                href="https://github.com/CSU-HERO-Lab/CF2Loc"
               >
                 GitHub repository <ArrowIcon />
               </a>
