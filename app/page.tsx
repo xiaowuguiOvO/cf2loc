@@ -115,8 +115,11 @@ export default function Home() {
             University
           </p>
           <div className="hero-actions">
-            <a className="button primary" href="paper.pdf">
-              Read the paper <ArrowIcon />
+            <a
+              className="button primary"
+              href="https://arxiv.org/html/2607.26817v2"
+            >
+              Read on arXiv <ArrowIcon />
             </a>
             <a
               className="button secondary"
@@ -349,8 +352,11 @@ export default function Home() {
               pretrained models will be released in this repository.
             </p>
             <div className="hero-actions">
-              <a className="button primary" href="paper.pdf">
-                Download PDF <ArrowIcon />
+              <a
+                className="button primary"
+                href="https://arxiv.org/html/2607.26817v2"
+              >
+                View on arXiv <ArrowIcon />
               </a>
               <a
                 className="button secondary"
